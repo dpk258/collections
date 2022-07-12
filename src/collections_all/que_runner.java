@@ -12,7 +12,7 @@ public class que_runner {
      A.offer("Jiya");
      A.offer("jayshree");
      
-    // System.out.println(A);
+    System.out.println(A);
 //System.out.println(A.element());     
 
      Iterator<String> IT = A.iterator();
